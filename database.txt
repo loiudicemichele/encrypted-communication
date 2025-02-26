@@ -1,0 +1,6 @@
+giuseppe:password
+michele:password_sicura
+pippo:pluto
+giovanni:password
+username:password
+P:username
