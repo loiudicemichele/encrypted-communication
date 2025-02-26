@@ -10,7 +10,7 @@ The application provides the following core functionalities:
 - **Database Authentication:** Users must log in to the server before communication; credentials are stored in a database.  
 
 ## 📡 Communication Schema  
-![Encrypted Communication Diagram](image.png)  
+![Encrypted Communication Diagram](image.png)
 
 ## 🌍 Language  
 - The system operates in **Italian**.  
